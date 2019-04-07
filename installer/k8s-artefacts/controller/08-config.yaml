@@ -86,7 +86,7 @@ data:
     package cellery.io
 
     default allow = true
-  cell-sts-image: wso2cellery/cell-sts:v0.1.1
+  cell-sts-image: wso2cellery/cell-sts
   cell-sts-opa-image: openpolicyagent/opa:0.10.3
 kind: ConfigMap
 metadata:
